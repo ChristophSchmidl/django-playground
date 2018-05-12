@@ -25,6 +25,8 @@ SECRET_KEY = 'rho$to0xh^8e&=$s##n24^g53_nq*$7g7=2rjpx*ma!idk2y+i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+
+# Add the url of the host where you deploy this application to
 ALLOWED_HOSTS = []
 
 
